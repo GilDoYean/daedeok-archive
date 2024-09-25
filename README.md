@@ -66,6 +66,7 @@
 | 사칙 연산                   | [four-basic-operations](https://github.com/GilDoYean)             |
 | 사칙 연산 Part2                   | [four-basic-operations-part2](https://github.com/GilDoYean)             |
 | Spring Person 조회 서비스 구현                    | [person-check-service](https://github.com/GilDoYean)             |
+| Spring Person 조회 서비스 구현 Part2                   | [person-check-service-part2](https://github.com/GilDoYean)             |
 | Spring Person 엔터티 핸들링                   | [person-entity-handling](https://github.com/GilDoYean)             |
 | Spring 학사 관리 시스템 구현                   | [school-manage-service](https://github.com/GilDoYean)             |
 
