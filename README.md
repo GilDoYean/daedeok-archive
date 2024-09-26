@@ -74,6 +74,11 @@
 
 - 레벨3 미션/실습과 관련된 지식을 공부하기 위해 스터디를 진행하였습니다.
 
+| 번호                        |                                                                                 |
+| --------------------------- | --------------------------------------------------------------------------------------------- |
+| 이미지 스트리밍 서비스 구현                   | [img-streaming](https://github.com/GilDoYean)              |
+| JSP 달력 구현                   | [jsp-calendar](https://github.com/GilDoYean)             |
+
 ### 고급 프로젝트 레포지토리
 
 > [클라우드 기반의 SaaS형 프로젝트 관리 시스템, 'Nexus'](https://github.com/GilDoYean/daedeok-teams-Nexus)
