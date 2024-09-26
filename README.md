@@ -20,6 +20,13 @@
 | 숫자 야구                   | 숫자 야구 레포지토리             |
 | 숫자 야구                   | 숫자 야구 레포지토리             |
 
+### 프로그래머스 스터디
+
+https://github.com/GilDoYean/daedeok-coding-practice/tree/main
+
+- 프로그래머스의 다양한 문제를 풀어보면서 자바 기본 문법을 익히고 응용력을 향상하고자 꾸준히 진행하였습니다.
+
+
 ### 초급 프로젝트 레포지토리
 
 > [미용실 예약 시스템, '왕짱'](https://github.com/GilDoYean)
