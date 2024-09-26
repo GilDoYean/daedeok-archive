@@ -76,9 +76,9 @@
 
 | 순번                        |  스터디 기록 링크                                                                               |
 | --------------------------- | --------------------------------------------------------------------------------------------- |
-| 1                   | [스터디_0701](https://legend-trawler-09e.notion.site/07-01-95523a507c494b3db101455e59857c5e)              |
-| 2                   | [스터디_0703](https://legend-trawler-09e.notion.site/07-03-7909832d1a0f4f1c8b0e78ac8a5ddfcb)             |
-| 3                   | [스터디_0704](https://legend-trawler-09e.notion.site/07-04-8fb6c0c912a24cd79cb3f94561a0c606)             |
+| 1                   | [스터디_0701_principal, Testcase](https://legend-trawler-09e.notion.site/07-01-95523a507c494b3db101455e59857c5e)              |
+| 2                   | [스터디_0703_Reflection, invoke, SQL 쿼리문](https://legend-trawler-09e.notion.site/07-03-7909832d1a0f4f1c8b0e78ac8a5ddfcb)             |
+| 3                   | [스터디_0704_Collection, Association](https://legend-trawler-09e.notion.site/07-04-8fb6c0c912a24cd79cb3f94561a0c606)             |
 
 ### 고급 프로젝트 레포지토리
 
